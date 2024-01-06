@@ -30,11 +30,3 @@ HTML belgesi `<html>` etiketi içinde başlar ve `</html>` etiketi ile biter. Sa
 
 - Kullanıcı girişi almak için `<form>` etiketi kullanılır.
 - Metin kutuları, şifre alanları, onay kutuları gibi formlar için çeşitli etiketler bulunur (`<input>`, `<textarea>`, `<select>`).
-
-## Katkıda Bulunma
-
-Eğer bu notlara katkıda bulunmak istiyorsanız, lütfen bir fork oluşturun ve pull request gönderin. Detaylı katkı rehberimizi [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsiniz.
-
----
-
-**Not:** Bu sadece bir örnek README şablonudur. Projeye özgü bilgileri eklemeyi unutmayın.
